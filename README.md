@@ -1,6 +1,3 @@
-
-# Diagrama_Clases
-
 # Diagramas de Clases - Relaciones y Conexiones
 
 Este repositorio contiene ejemplos de relaciones y conexiones entre clases en los diagramas de clases. Se han implementado diferentes tipos de relaciones entre clases, que incluyen:
